@@ -1,0 +1,12 @@
+{
+  "name": "database_service",
+  "version": "1.0.0",
+  "description": "Database service",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon server.js"
+  },
+  "author": "AuroraVaughn",
+  "license": "ISC"
+}
