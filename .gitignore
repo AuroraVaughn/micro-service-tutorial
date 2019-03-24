@@ -1,6 +1,7 @@
-**/secrets.js
-secrets.js
-**/node_modules
-node_modules
+
+**/node_modules/
+node_modules/
 packages/**/secrets.js
-packages/**/node_modules.js
+packages/**/node_modules
+secrets.js
+**/secrets.js
