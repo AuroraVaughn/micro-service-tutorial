@@ -1,1 +1,1 @@
-"i am a test secret";
+"NEW SECRET! TEST!";
